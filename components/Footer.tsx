@@ -59,10 +59,10 @@ export default function Footer() {
             <ul className="space-y-3 font-mono text-xs text-silver">
               <li>
                 <a
-                  href="mailto:enquiries@petronexus.com"
+                  href="mailto:enquiries@petronexus.net"
                   className="hover:text-gold transition-colors duration-300"
                 >
-                  enquiries@petronexus.com
+                  enquiries@petronexus.net
                 </a>
               </li>
               <li>
